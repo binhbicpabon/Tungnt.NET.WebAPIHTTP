@@ -1,0 +1,5 @@
+ Phương thức: GET
+ URL: https://ws.doithenhanh.com/api/charge?email=phamthihoe4488@gmail.com&provider=vtt&serial=57744826153&pin=6552999584543&key=zcnddoZE5Vo4d4Gg
+ Trả về: json
+ Với mã provider: (Viettel: vtt; Mobifone: vms; Vinaphone: vnp; Gate: gate)
+- Bộ mã lỗi:
